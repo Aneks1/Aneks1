@@ -4,9 +4,11 @@ Hi, I'm Amex. I don't really know what to write here.
 I will just say that I like Geometry Dash and I make stupid things.
 
 Go to see my repositories to see my stupid things.
+
 I'm working on a Discord Bot called n3x.
 
 I like TypeScript, it is cool.
+
 I really want to make some kind of "hacks" or "mods" for Geometry Dash.
 
 If you are asking why I make stupid things, it's because I don't have ideas.
