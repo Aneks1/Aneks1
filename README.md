@@ -22,4 +22,4 @@ If you want to contact me, send me a Discord DM (`Amex#3159`) or join my Discord
 I think I will add more things to this README in the future.
 cya.
 
-![Amex's Stats](https://github-readme-stats.vercel.app/api?username=ItsAmex&bg_color=111111&hide_border=false&border_color=817dff)
+![Amex's Stats](https://github-readme-stats.vercel.app/api?username=ItsAmex&bg_color=111111&border_radius=50&hide_border=false&border_color=817dff)
