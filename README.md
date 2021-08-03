@@ -17,7 +17,7 @@ I always try to make something kind of fun.
 Im currently learning [SPWN](https://github.com/Spu7Nix/SPWN-language), it's cool.
 I'm trying to make a little game inside GD and I really need some help.
 
-If you want to contact me, send me a Discord DM (`Amex#3159`) or join my Discord [Server](https://discord.gg/uBjtHZWxvA)
+If you want to contact me, send me a Discord DM (`Amex#3159`) or join my [Discord Server](https://discord.gg/uBjtHZWxvA)
 
 I think I will add more things to this README in the future.
 cya.
