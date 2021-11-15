@@ -1,5 +1,5 @@
+<img src="icon.png" align="right" />
 # Amex
-
 Hi, I'm Amex, I like coding, really nothing to say about me. I make things.....Sometimes.
 If you want to see my projects go to https://itsamex.github.io
 
