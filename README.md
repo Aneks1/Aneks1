@@ -16,3 +16,5 @@ I have a lot of projects in mind, I'm working on a Brainfuck interpreter and a c
 ## My Stats
 
 ![My Stats :D](https://github-readme-stats.vercel.app/api?username=ItsAmex&theme=dark)
+
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAmex&theme=dark)
