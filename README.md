@@ -3,7 +3,7 @@
 # Hi I'm Amex
 
 I'm just a guy who likes programming and making (unuseful) things.
-I have a lot of projects in mind, I'm working on a Brainfuck interpreter and a chess AI.
+I have a lot of projects in mind.
 
 ## Languages I know
 
