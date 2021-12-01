@@ -11,7 +11,7 @@ I have a lot of projects in mind.
 - JavaScript
 - HTML/CSS
 - Vue
-- (Just a little) C#
+- C#
 
 ## My Stats
 
