@@ -15,6 +15,6 @@ I have a lot of projects in mind.
 
 ## My Stats
 
-![My Stats :D](https://github-readme-stats.vercel.app/api?username=ItsAmex&theme=dark)
+![My Stats :D](https://github-readme-stats.vercel.app/api?username=Aneks1&theme=dark)
 
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAmex&theme=dark)
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneks1&theme=dark)
