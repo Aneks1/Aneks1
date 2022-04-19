@@ -2,7 +2,7 @@
 
 # 🌈 Hi I'm Aneks
 
-I'm just a guy who likes programming and making (unuseful) things.
+I'm just a guy who likes programming and making (useless) things.
 I have a lot of projects in mind.
 
 ## Languages I know
