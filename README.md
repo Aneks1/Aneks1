@@ -1,4 +1,4 @@
-<img src="icon.png" align="right" width="100px" height="100px"/>
+<img src="Pfp_small.png" align="right" width="100px" height="100px"/>
 
 # 🌈 Hi I'm Aneks
 
