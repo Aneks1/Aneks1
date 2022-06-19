@@ -12,6 +12,7 @@ I have a lot of projects in mind.
 - HTML/CSS
 - Vue
 - C#
+- (Some) C++
 
 ## My Stats
 
