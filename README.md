@@ -1,9 +1,10 @@
 <img src="Pfp_small.png" align="right" width="100px" height="100px"/>
 
-# 🌈 Hi I'm Aneks
+# 🌺 Hi I'm Aneks
 
 I'm just a guy who likes programming and making (useless) things.
-I have a lot of projects in mind.
+I like making API wrappers and utility websites.
+Recently I discovered that I have really good CSS skills so I am pointing more towards website design.
 
 ## Languages I know
 
@@ -11,7 +12,6 @@ I have a lot of projects in mind.
 - JavaScript
 - HTML/CSS
 - Vue
-- C#
 - (Some) C++
 
 ## My Stats
