@@ -2,6 +2,8 @@
 
 <h1 align="center">🍙 Hi I'm Aneks<h1/>
 
+## Who is this?
+
 > I'm just a guy who likes programming and making (useless) things.
 > I like making API wrappers and utility websites.
 > Recently I discovered that I have really good CSS skills so I am pointing more towards website design.
