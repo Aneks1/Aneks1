@@ -1,10 +1,11 @@
 <img src="Pfp_small.png" align="right" width="100px" height="100px"/>
 
 <h1 align="center">🍙 Hi I'm Aneks<h1/>
-
+<p>
 > I'm just a guy who likes programming and making (useless) things.
 > I like making API wrappers and utility websites.
 > Recently I discovered that I have really good CSS skills so I am pointing more towards website design.
+<p/>
 
 ## Languages I know
 
