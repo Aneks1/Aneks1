@@ -1,6 +1,6 @@
 <img src="Pfp_small.png" align="right" width="100px" height="100px"/>
 
-# 🍙 Hi I'm Aneks
+<center><h1>🍙 Hi I'm Aneks<h1/><center/>
 
 > I'm just a guy who likes programming and making (useless) things.
 > I like making API wrappers and utility websites.
