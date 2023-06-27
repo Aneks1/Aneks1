@@ -2,9 +2,9 @@
 
 # 🍙 Hi I'm Aneks
 
-I'm just a guy who likes programming and making (useless) things.
-I like making API wrappers and utility websites.
-Recently I discovered that I have really good <span style="color:purple">CSS<span/> skills so I am pointing more towards website design.
+> I'm just a guy who likes programming and making (useless) things.
+> I like making API wrappers and utility websites.
+> Recently I discovered that I have really good CSS skills so I am pointing more towards website design.
 
 ## Languages I know
 
