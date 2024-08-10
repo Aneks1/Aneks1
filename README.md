@@ -2,9 +2,7 @@
 
 # 🍙 Hi I'm Aneks
 
-> I'm just a guy who likes programming and making (useless) things.
-> I like making API wrappers and utility websites.
-> Recently I discovered that I have really good CSS skills so I am pointing more towards website design.
+> I'm a self thought full-stack developer who is passionate about programming and loves entrepreneuring.
 
 ## Languages I know
 
