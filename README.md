@@ -2,7 +2,8 @@
 
 # 🍙 Hi I'm Aneks
 
-> I'm a self thought full-stack developer who is passionate about programming and loves entrepreneuring.
+> I am a self thought full-stack developer who is passionate about programming and loves entrepreneuring.
+> I am also the founder of [Aneksium](https://github.com/Aneksium), a small software developement enterprise.
 
 ## Languages I know
 | Typescript | Javascript | HTML/CSS | Vue.js | (Some) C++ |
@@ -12,6 +13,12 @@
 <p align="center">
   <a href="https://github.com/Aneks1/canvas-particles">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneks1&repo=canvas-particles&theme=nightowl"/>
+  </a>
+    <a href="aneks1.github.io/brainfuck-interpreter/">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneks1&repo=brainfuck-interpreter&theme=nightowl"/>
+  </a>
+      <a href="https://github.com/Aneksium/NoteSphere">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneksium&repo=NoteSphere&theme=nightowl"/>
   </a>
 </p>
 
