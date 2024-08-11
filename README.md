@@ -16,5 +16,6 @@
 
 <p align="center">
   <img width="600" src="https://github-readme-stats.vercel.app/api?username=Aneks1&theme=nightowl"/>
+  <br>
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneks1&theme=nightowl"/>
 </p>
