@@ -8,6 +8,13 @@
 | Typescript | Javascript | HTML/CSS | Vue.js | (Some) C++ |
 |----------|----------|----------|----------|----------|
 
+## Some Interesting Projects
+<p align="center">
+  <a href="https://github.com/Aneks1/canvas-particles">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneks1&repo=canvas-particles&theme=nightowl"/>
+  </a>
+</p>
+
 ## My Stats
 
 <p align="center">
