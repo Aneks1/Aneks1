@@ -15,6 +15,6 @@
 ## My Stats
 
 <p align="center">
-  <img width="800" src="https://github-readme-stats.vercel.app/api?username=Aneks1&theme=nightowl"/>
+  <img width="600" src="https://github-readme-stats.vercel.app/api?username=Aneks1&theme=nightowl"/>
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneks1&theme=nightowl"/>
 </p>
