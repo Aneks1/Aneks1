@@ -20,6 +20,10 @@
       <a href="https://github.com/Aneksium/NoteSphere">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneksium&repo=NoteSphere&theme=nightowl"/>
   </a>
+  </a>
+      <a href="https://github.com/Aneksium/NoteSphere">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneks1&repo=orbital-visualizer&theme=nightowl"/>
+  </a>
 </p>
 
 ## My Stats
