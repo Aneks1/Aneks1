@@ -14,7 +14,7 @@
   <a href="https://github.com/Aneks1/canvas-particles">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneks1&repo=canvas-particles&theme=nightowl"/>
   </a>
-    <a href="aneks1.github.io/brainfuck-interpreter/">
+    <a href="https://github.com/Aneks1/brainfuck-interpreter/">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneks1&repo=brainfuck-interpreter&theme=nightowl"/>
   </a>
       <a href="https://github.com/Aneksium/NoteSphere">
