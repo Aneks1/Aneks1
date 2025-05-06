@@ -3,7 +3,7 @@
 # 🍙 Hi I'm Aneks
 
 ## Languages I know
-| Typescript | Javascript | HTML/CSS | Vue.js | (Some) C++ |
+| Typescript | Javascript | HTML/CSS | Vue | Astro | (Some) C++ |
 |----------|----------|----------|----------|----------|
 
 ## Some Interesting Projects
