@@ -4,7 +4,7 @@
 
 ## Languages I know
 | Typescript | Javascript | HTML/CSS | Vue | Astro | (Some) C++ |
-|----------|----------|----------|----------|----------|
+|----------|----------|----------|----------|----------|----------|
 
 ## Some Interesting Projects
 <p align="center">
