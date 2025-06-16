@@ -13,7 +13,7 @@
 
 ## My Stats
 
-<p style="display: flex; align-items: center; justify-content: center, flex-direction: row;">
+<p style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=Aneks1&theme=nightowl"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneks1&theme=nightowl"/>
 </p>
